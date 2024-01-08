@@ -1,10 +1,6 @@
 # Hey there, I'm Yash Patil! 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[URL_TO_DARKMODE_IMAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymJeHh5P46kD-YkykYkxGj0YhMI5KgwQ3Eg&usqp=CAU)">
-  <source media="(prefers-color-scheme: light)" srcset=" ([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymJeHh5P46kD-YkykYkxGj0YhMI5KgwQ3Eg&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymJeHh5P46kD-YkykYkxGj0YhMI5KgwQ3Eg&usqp=CAU))">
-  <img alt="Profile Banner" src="(https://photos.app.goo.gl/xQF1eC6vhDuxa1mT6)">
-</picture>
+ 
 
 I'm a BCA student with a passion for web development and a keen interest in exploring new technologies. Currently honing my skills in creating robust and user-friendly web applications, I've already had the opportunity to work on diverse projects.
 
@@ -24,15 +20,16 @@ I'm always on the lookout for learning opportunities to enhance my knowledge. Cu
 
 ## 🔧 Tech Stack:
 
-- **Languages**: Python, C++, SQL
+- **Languages**: Python, C++, Java Script ,
 - **Web Technologies**: HTML, CSS, JavaScript, Bootstrap
-- **Backend Framework**: Django
+- **Backend Framework**: Django ,SQL 
 - **Version Control**: Git & GitHub
+- **Frameworks**: Bootstrap , Flutterflow ,Django
 
 ## 🌐 Check out my work:
 
-- [Crypto Website](#): Explore my project featuring live crypto prices, Django backend, and a user-friendly chatbot.
-  ![Crypto Website Preview](URL_TO_CRYPTO_WEBSITE_PREVIEW_IMAGE)
+- [Crypto Website](https://github.com/yashyp12/Cryptox): Explore my project featuring live crypto prices, Django backend, and a user-friendly chatbot.
+  
 
 - [GitHub Profile](https://github.com/yashyp12): Check out my repositories and collaborative projects on GitHub.
 
