@@ -2,7 +2,7 @@
 
  
 
-I'm a BCA student with a passion for web development and a keen interest in exploring new technologies. Currently honing my skills in creating robust and user-friendly web applications, I've already had the opportunity to work on diverse projects.
+I'm a   student with a passion for web development and a keen interest in exploring new technologies. Currently honing my skills in creating robust and user-friendly web applications, I've already had the opportunity to work on diverse projects.
 
 ## 🚀 What I do:
 
