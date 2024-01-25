@@ -1,4 +1,4 @@
-# Hey there, I'm Yash Patil! 👋
+# , I'm Yash Patil! 
 
  
 
