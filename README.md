@@ -31,6 +31,7 @@ I am always exploring new learning opportunities to broaden my technical horizon
 ## 👥 Let's Connect:
 
 - **LinkedIn**: [Yash Patil](https://www.linkedin.com/in/yashyp12/)
+- **Medium**: [Yash Patil]( https://medium.com/@yashyp12)
 
 ## 🤝 Open to Collaborate:
 
