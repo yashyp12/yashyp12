@@ -36,6 +36,7 @@ I'm always on the lookout for learning opportunities to enhance my knowledge. Cu
 ## 👥 Let's Connect:
 
 - **LinkedIn**: [Yash Patil](https://www.linkedin.com/in/yashyp12/)
+- **Medium**: [Yash Patil](https://medium.com/@yashyp12)
 
 ## 🤝 Open to Collaborate:
 
