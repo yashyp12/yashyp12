@@ -2,17 +2,17 @@
 
  
 
-I'm a   student with a passion for web development and a keen interest in exploring new technologies. Currently honing my skills in creating robust and user-friendly web applications, I've already had the opportunity to work on diverse projects.
+Highly motivated and detail-oriented Software Engineer with a passion for cutting-edge technologies and a commitment to delivering exceptional results. Possesses excellent communication and collaboration skills, coupled with a strong foundation in programming languages and development principles. Continuously seeks opportunities to learn and adapt to the latest advancements, particularly in AI, to drive innovation and productivity.
 
 ## 🚀 What I do:
 
 - **Web Development**: Proficient in HTML, CSS, JavaScript, and Bootstrap for crafting intuitive and responsive interfaces.
   
-- **Backend Magic**: Leveraging the power of Python and Django to build scalable and efficient backend systems.
+- **Backend Magic**: Leveraging the power of Python, Java and Django to build scalable and efficient backend systems.
   
 - **Crypto Enthusiast**: Created a crypto website with live price fetching using Bootstrap, Python Django, and integrated a chatbot for an enhanced user experience.
 
-- **Multi-Linguist Coder**: Comfortable with languages like C++, Python, and SQL database.
+- **Multi-Linguist Coder**: Comfortable with languages like C++, Python, and SQL database , JAVA
 
 ## 🌱 Currently Learning:
 
@@ -20,11 +20,11 @@ I'm always on the lookout for learning opportunities to enhance my knowledge. Cu
 
 ## 🔧 Tech Stack:
 
-- **Languages**: Python, C++, Java Script ,
-- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap
-- **Backend Framework**: Django ,SQL 
-- **Version Control**: Git & GitHub
-- **Frameworks**: Bootstrap , Flutterflow ,Django
+- **Languages**: Python, JavaScript , Java ,c++
+- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap ,Tailwind CSS
+- **Backend Framework**: Django 
+- **Version Control**: Git & GitHub , Docker
+- **Frameworks**: Bootstrap , Flutterflow ,Django , Tailwind CSS
 
 ## 🌐 Check out my work:
 
@@ -48,8 +48,8 @@ I'm actively seeking exciting projects and collaboration opportunities. Let's co
 |-----:|-----------|
 |     1| Python|
 |     2| Java Script    |
-|     3| SQL
-      4| C++
+|     3| SQL Database
+      4| JAVA
 
 </details>
 
