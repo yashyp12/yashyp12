@@ -1,61 +1,57 @@
- # Yash Patil  | Software Engineer 
+# Yash Patil | Software Engineer
 
- 
+As a dedicated and innovative Software Engineer, I possess a strong foundation in programming and development with a keen interest in cutting-edge technologies. My passion lies in creating robust and user-friendly web applications, continually updating my skills to stay ahead in the ever-evolving tech landscape.
 
-Highly motivated and detail-oriented Software Engineer with a passion for cutting-edge technologies and a commitment to delivering exceptional results. Possesses excellent communication and collaboration skills, coupled with a strong foundation in programming languages and development principles. Continuously seeks opportunities to learn and adapt to the latest advancements, particularly in AI, to drive innovation and productivity.
+## 🚀 What I Do:
 
-## 🚀 What I do:
-
-- **Web Development**: Proficient in HTML, CSS, JavaScript, and Bootstrap for crafting intuitive and responsive interfaces.
-  
-- **Backend Magic**: Leveraging the power of Python, Java and Django to build scalable and efficient backend systems.
-  
-- **Crypto Enthusiast**: Created a crypto website with live price fetching using Bootstrap, Python Django, and integrated a chatbot for an enhanced user experience.
-
-- **Multi-Linguist Coder**: Comfortable with languages like C++, Python, and SQL database , JAVA
+- **Web Development**: Skilled in **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for designing intuitive and responsive interfaces.
+- **Backend Development**: Expertise in **Python**, **Java**, and **Django** to build scalable and efficient backend systems.
+- **Project Optimization**: Proven track record in enhancing website performance and SEO to improve online visibility.
+- **Problem Solving**: Developed innovative solutions for real-world challenges through hackathons and professional projects.
 
 ## 🌱 Currently Learning:
 
-I'm always on the lookout for learning opportunities to enhance my knowledge. Currently exploring new skills to broaden my technical horizon.
+I am always exploring new learning opportunities to broaden my technical horizon. Currently delving into AI technologies to enhance productivity and innovation in my projects.
 
 ## 🔧 Tech Stack:
 
-- **Languages**: Python, JavaScript , Java ,c++
-- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap ,Tailwind CSS
-- **Backend Framework**: Django 
-- **Version Control**: Git & GitHub , Docker
-- **Frameworks**: Bootstrap , Flutterflow ,Django , Tailwind CSS
+- **Languages**: Python, JavaScript, Java, C++
+- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- **Backend Framework**: Django
+- **Version Control**: Git, GitHub, Docker
+- **Design Tools**: Figma
+- **Operating Systems**: Windows, macOS, Linux
 
-## 🌐 Check out my work:
+## 🌐 Check Out My Work:
 
+- [NDA Online Kabadiwala](https://ndaonlinekabadiwala.com/): Developed a comprehensive platform for scrap dealers to schedule pickups, optimized for performance and SEO.
 - [Crypto Website](https://github.com/yashyp12/Cryptox): Explore my project featuring live crypto prices, Django backend, and a user-friendly chatbot.
-  
-
-- [GitHub Profile](https://github.com/yashyp12): Check out my repositories and collaborative projects on GitHub.
+- [GitHub Profile](https://github.com/yashyp12): Browse my repositories and collaborative projects on GitHub.
 
 ## 👥 Let's Connect:
 
 - **LinkedIn**: [Yash Patil](https://www.linkedin.com/in/yashyp12/)
-- **Medium**: [Yash Patil](https://medium.com/@yashyp12)
 
 ## 🤝 Open to Collaborate:
 
-I'm actively seeking exciting projects and collaboration opportunities. Let's connect and build something amazing together! 🚀
+I am actively seeking exciting projects and collaboration opportunities. Let's connect and build something remarkable together! 🚀
 
 <details>
-<summary>Programming languages</summary>
+<summary>Programming Languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python|
-|     2| Java Script    |
-|     3| SQL Database
-      4| JAVA
+| Rank | Languages   |
+|-----:|-------------|
+|     1| Python      |
+|     2| JavaScript  |
+|     3| SQL Database|
+|     4| Java        |
+|     5| C++         |
 
 </details>
 
 ---
 > "If we pull together and commit ourselves, then we can push through anything."
 > 
-> — /yashyp12
+> — Yash Patil
+
 patilyashyp12@gmail.com
