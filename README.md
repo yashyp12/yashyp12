@@ -55,4 +55,4 @@ I am actively seeking exciting projects and collaboration opportunities. Let's c
 > 
 > 
 
-[yashyp.engineer]([yashyp.engineer](https://yashyp.engineer))
+[yashyp.engineer](https://yashyp.engineer)
