@@ -26,7 +26,7 @@ I am always exploring new learning opportunities to broaden my technical horizon
 
 - [NDA Online Kabadiwala](https://ndaonlinekabadiwala.com/): Developed a comprehensive platform for scrap dealers to schedule pickups, optimized for performance and SEO.
 - [Crypto Website](https://github.com/yashyp12/Cryptox): Explore my project featuring live crypto prices, Django backend, and a user-friendly chatbot.
-- [GitHub Profile](https://github.com/yashyp12): Browse my repositories and collaborative projects on GitHub.
+- [Portfolio](https://yashyp.engineer): Browse my repositories and collaborative projects on My Website.
 
 ## 👥 Let's Connect:
 
