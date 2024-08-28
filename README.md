@@ -53,6 +53,6 @@ I am actively seeking exciting projects and collaboration opportunities. Let's c
 ---
 > "If we pull together and commit ourselves, then we can push through anything."
 > 
-> — Yash Patil
+> 
 
-patilyashyp12@gmail.com
+yashyp.engineer
