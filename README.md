@@ -16,7 +16,7 @@ I am always exploring new learning opportunities to broaden my technical horizon
 ## 🔧 Tech Stack:
 
 - **Languages**: Python, JavaScript, Java, C++
-- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap, React Js
 - **Backend Framework**: Django
 - **Version Control**: Git, GitHub, Docker
 - **Design Tools**: Figma
