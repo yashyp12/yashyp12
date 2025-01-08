@@ -17,7 +17,6 @@ I am always exploring new learning opportunities to broaden my technical horizon
 
 - **Languages**: Python, JavaScript
 - **Web Technologies**: HTML, CSS, JavaScript, Bootstrap, React Js, Tailwind Css
-- **Backend Framework**: Nextjs
 - **Authentication**: Google Firebase
 - **Version Control**: git, GitHub,
 - **Design Tools**: Figma
