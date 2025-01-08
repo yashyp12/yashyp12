@@ -4,8 +4,8 @@ As a dedicated and innovative Software Engineer, I possess a strong foundation i
 
 ## 🚀 What I Do:
 
-- **Web Development**: Skilled in **HTML**, **CSS**, **JavaScript**, and **Bootstrap** *reactjs* for designing intuitive and responsive interfaces.
-- **Backend Development**: Expertise in **Python**, **Java**, and **Django** to build scalable and efficient backend systems.
+- **Web Development**: Skilled in **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap** *reactjs* for designing intuitive and responsive interfaces.
+- **Backend Development**: Expertise in **Python**, **JavaScript** to build scalable and efficient systems.
 - **Project Optimization**: Proven track record in enhancing website performance and SEO to improve online visibility.
 - **Problem Solving**: Developed innovative solutions for real-world challenges through hackathons and professional projects.
 
@@ -15,12 +15,13 @@ I am always exploring new learning opportunities to broaden my technical horizon
 
 ## 🔧 Tech Stack:
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap, React Js
-- **Backend Framework**: Django
-- **Version Control**: Git, GitHub, Docker
+- **Languages**: Python, JavaScript
+- **Web Technologies**: HTML, CSS, JavaScript, Bootstrap, React Js, Tailwind Css
+- **Backend Framework**: Nextjs
+- **Authentication**: Google Firebase
+- **Version Control**: git, GitHub,
 - **Design Tools**: Figma
-- **Operating Systems**: Windows, macOS, Linux
+- **Operating Systems**: Windows, macOS
 
 ## 🌐 Check Out My Work:
 
@@ -45,8 +46,8 @@ I am actively seeking exciting projects and collaboration opportunities. Let's c
 |     1| Python      |
 |     2| JavaScript  |
 |     3| SQL Database|
-|     4| Java        |
-|     5| C++         |
+|    
+|   
 
 </details>
 
