@@ -1,4 +1,4 @@
-# Yash Patil — Software Engineer
+# Hey i am a Software Developer
 
 Passionate Software Developer with hands-on experience building and deploying full-stack web and desktop applications. Skilled in delivering real-time, production-ready software solutions for industrial and business clients. Focused on clean, efficient code and building scalable, user-friendly applications.
 
