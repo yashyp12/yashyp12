@@ -1,50 +1,62 @@
-# Hey WoRld , ASPIRING Software Developer
+# Hey World! 👋 Aspiring Java Full Stack Developer
 
-Passionate Software Developer with hands-on experience building and deploying full-stack web and desktop applications. Skilled in delivering real-time, production-ready software solutions for industrial and business clients. Focused on clean, efficient code and building scalable, user-friendly applications.
+Computer Science student passionate about building robust software solutions. Currently focused on Java Full Stack development with cloud technologies while actively exploring emerging tech trends to stay ahead in the competitive software development landscape.
 
 ---
 
-## 🚀 What I Do
+## 🎯 My Development Focus
 
-- **Frontend Development:** Build responsive and intuitive interfaces using **HTML5**, **CSS3**, **JavaScript**, **Bootstrap 5**, and **Tailwind CSS**.
-- **Backend Development:** Develop scalable backend systems primarily using **Python** and **JavaScript**.
-- **Full-Stack Applications:** Experienced in integrating frontend and backend for seamless user experiences.
-- **Workflow Optimization:** Delivered software solutions that automate manual processes, improving operational efficiency.
-- **Problem Solving:** Implement practical, real-world solutions through professional projects and internships.
+- **Java Ecosystem:** Building strong foundations in **Core Java**, **Spring Boot**, **Hibernate**, and **Microservices** architecture.
+- **Frontend Development:** Learning responsive UI development with **HTML5**, **CSS3**, **JavaScript**, **React**, and **Angular**.
+- **Cloud Technologies:** Exploring **AWS**, **Azure**, and **Google Cloud** to deploy scalable applications.
+- **DevOps Practices:** Understanding CI/CD pipelines, containerization with **Docker** and orchestration with **Kubernetes**.
+- **Problem Solving:** Developing practical coding solutions through academic projects and hands-on learning.
 
 ---
 
 ## 🌱 Currently Learning
 
-Exploring **Artificial Intelligence (AI)** technologies to enhance software capabilities and innovation.
+- **Java Full Stack Development:** Mastering enterprise-level application development
+- **Cloud Technologies:** Implementing cloud-native solutions
+- **Modern Development Practices:** Agile methodologies, Test-Driven Development
+- **Emerging Tech:** Keeping an eye on **Artificial Intelligence (AI)** and **Blockchain** technologies
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Learning Path
 
 | Category           | Technologies & Tools                              |
 |--------------------|--------------------------------------------------|
-| **Languages**      | Python, JavaScript, Core Java                      |
-| **Frontend**       | HTML5, CSS3, JavaScript, Bootstrap 5, Tailwind CSS |
-| **Backend**        | Python (including Electron.js integrations)        |
-| **Databases**      | SQLite, SQL, Google Firebase                        |
-| **Cloud & Hosting**| Microsoft Azure                                    |
-| **Version Control**| Git, GitHub, GitHub Copilot                         |
-| **Development Tools** | VS Code, PyCharm, IntelliJ IDEA                  |
-| **Operating Systems** | Windows, Linux, macOS                             |
+| **Core Languages** | Java, Python, JavaScript                          |
+| **Java Stack**     | Core Java, Spring Boot, Hibernate, JUnit          |
+| **Frontend**       | HTML5, CSS3, JavaScript, Bootstrap 5, React (learning) |
+| **Cloud Services** | AWS (learning), Azure, Google Cloud Platform      |
+| **Databases**      | SQL, MongoDB, PostgreSQL                          |
+| **DevOps**         | Git, GitHub, Docker (learning), Jenkins           |
+| **Development Tools** | IntelliJ IDEA, VS Code, Eclipse                |
+| **Operating Systems** | Windows, Linux, macOS                          |
 
 ---
 
-## 🌐 Selected Projects
+## 🌐 Portfolio Projects
 
 - **[NDA Online Kabadiwala](https://ndaonlinekabadiwala.com/)**  
-  Developed a full-stack web platform for scrap dealers to schedule pickups and manage collections. Focused on performance and user-friendly design.
+  Full-stack web platform for scrap dealers - showcasing my ability to solve real-world problems through technology.
 
 - **[CryptoX](https://github.com/yashyp12/Cryptox)**  
-  Cryptocurrency tracking web app featuring live price updates, built with Django backend and a chatbot interface.
+  Cryptocurrency tracking web app featuring live price updates - demonstrating integration of APIs and dynamic content.
 
-- **[Portfolio](https://yashyp.engineer)**  
-  Personal website showcasing my projects, skills, and collaborations.
+- **[Personal Portfolio](https://yashyp.engineer)**  
+  My digital resume highlighting projects, skills, and learning journey.
+
+---
+
+## 📚 Learning Resources I Follow
+
+- **Tech Blogs:** Medium, Dev.to, Baeldung
+- **Online Platforms:** Udemy, Coursera, Pluralsight
+- **YouTube Channels:** Telusko, Java Brains, Amigoscode
+- **Community:** Stack Overflow, GitHub Discussions
 
 ---
 
@@ -52,30 +64,32 @@ Exploring **Artificial Intelligence (AI)** technologies to enhance software capa
 
 - **LinkedIn:** [linkedin.com/in/yashyp12](https://www.linkedin.com/in/yashyp12/)  
 - **Medium:** [medium.com/@yashyp12](https://medium.com/@yashyp12)  
+- **GitHub:** [github.com/yashyp12](https://github.com/yashyp12)
 
 ---
 
-## 🤝 Open to Collaborate
+## 🤝 Open to Opportunities
 
-I welcome opportunities to contribute to impactful projects and collaborate with like-minded professionals. Let’s build something great together!
+Actively seeking internships and entry-level positions in Java Full Stack development. Eager to contribute to real-world projects and grow with a forward-thinking team!
 
 ---
 
 <details>
-<summary>Programming Languages Ranking</summary>
+<summary>Current Learning Priority</summary>
 
-| Rank | Language      |
-|-------|---------------|
-| 1     | Python        |
-| 2     | JavaScript    |
-| 3     | SQL           |
+| Rank | Technology    | Focus Area                               |
+|------|---------------|------------------------------------------|
+| 1    | Java          | Spring Boot, Microservices               |
+| 2    | Cloud         | AWS Services, Cloud-Native Applications  |
+| 3    | React         | Frontend Development, State Management   |
+| 4    | DevOps        | CI/CD, Infrastructure as Code            |
 
 </details>
 
 ---
 
-> “If we pull together and commit ourselves, then we can push through anything.”
+> "The best way to predict the future is to create it. Learning today, leading tomorrow."
 
 ---
 
-[Visit My Website](https://yashyp.engineer)
+[Visit My Portfolio](https://yashyp.engineer)
