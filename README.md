@@ -4,7 +4,7 @@
   <h3>Software Developer | Java • Web Development • Desktop Applications</h3>
 
   <p>
-    <a href="https://yashyp.engineer">
+    <a href="[https://yashyp.engineer](https://yashypengineer.netlify.app/)">
       <img src="https://img.shields.io/badge/Portfolio-yashyp.engineer-blue?style=for-the-badge&logo=googlechrome" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/yashyp12">
