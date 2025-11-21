@@ -72,14 +72,7 @@ _A responsive web interface for inventory and vendor management._
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashyp12&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyp12&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
----
+ 
 
 ### 🤝 Connect With Me
 
