@@ -74,13 +74,15 @@ _A responsive web interface for inventory and vendor management._
 
  
 
-### 🤝 Connect With Me
+## 📊 LeetCode Progress (Live)
 
-<p align="left">
-<a href="https://linkedin.com/in/yashyp12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashyp12" height="30" width="40" /></a>
-<a href="https://yashyp.engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="yashyp.engineer" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=yashyp12&theme=dark" height="180"/>
+<img src="https://leetcard.jacoblin.cool/yashyp12?theme=dark&font=Fira%20Code&ext=contest" height="180"/>
+
+</div>
 
 <br />
 
-> “Keep exploring. Keep building. And say **Everything is Easy!**”
+> “Keep exploring. Keep building.  **”
