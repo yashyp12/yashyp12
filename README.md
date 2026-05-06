@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Yash+Patil!+%F0%9F%91%8B;Java+Developer+%7C+Web+Developer+%7C+Software+Engineer;Building+Practical+Solutions+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Yash+Patil!+%F0%9F%91%8B;Cloud+Engineer+%7C+Software+Engineer;Building+Practical+Solutions+That+Matter" alt="Typing SVG" />
   
-  <h3>💻 Java • Web Development • Software Development • Cloud Computing</h3>
+  <h3>💻 Cloud Engineer • Software Engineer</h3>
 
   <p>
-    <a href="https://yashypengineer.netlify.app/" target="_blank">
+    <a href="https://yashypengineer.netlify.app/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-yashyp.engineer-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/yashyp12" target="_blank">
+    <a href="https://linkedin.com/in/yashyp12" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:patilyashyp12@gmail.com">
@@ -57,15 +57,15 @@ const yash = {
   
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Languages: Java, JavaScript, Python, HTML, and CSS" />
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=bootstrap,electron,nodejs" />
+<img src="https://skillicons.dev/icons?i=bootstrap,electron,nodejs" alt="Frameworks and libraries: Bootstrap, Electron, and Node.js" />
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,vscode" alt="Databases and tools: MySQL, SQLite, Firebase, Git, and VS Code" />
 
 </div>
 
@@ -76,8 +76,8 @@ const yash = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashyp12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyp12&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashyp12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashyp12&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -86,8 +86,15 @@ const yash = {
 
 <br />
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=header"/>
+
+## 📊 LeetCode Progress (Live)
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashyp12&theme=tokyo-night&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF" alt="Activity Graph" />
+
+<img src="https://leetcode-stats-six.vercel.app/api?username=yashyp12&theme=dark" height="180" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/yashyp12?theme=dark&font=Fira%20Code&ext=contest" height="180" alt="LeetCode Card"/>
+
 </div>
 
 <br />
@@ -101,7 +108,7 @@ const yash = {
     <td width="50%">
       <h3 align="center">🏭 Furnace Management System</h3>
       <div align="center">
-        <a href="https://github.com/yashyp12" target="_blank">
+        <a href="https://github.com/yashyp12" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
         <p><strong>Tech Stack:</strong> Electron.js • Python • MS SQL • SQLite • Firebase</p>
@@ -115,7 +122,7 @@ const yash = {
     <td width="50%">
       <h3 align="center">♻️ Scrap Management Platform</h3>
       <div align="center">
-        <a href="https://github.com/yashyp12" target="_blank">
+        <a href="https://github.com/yashyp12" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
         <p><strong>Tech Stack:</strong> HTML5 • Bootstrap • JavaScript • Firebase</p>
@@ -131,7 +138,7 @@ const yash = {
     <td width="50%">
       <h3 align="center">💼 Personal Portfolio</h3>
       <div align="center">
-        <a href="https://yashyp.engineer" target="_blank">
+        <a href="https://yashyp.engineer" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Visit_Site-00D9FF?style=for-the-badge&logo=googlechrome" alt="Visit Site"/>
         </a>
         <p><strong>Tech Stack:</strong> HTML • CSS • JavaScript</p>
@@ -162,7 +169,7 @@ const yash = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashyp12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yashyp12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -172,16 +179,16 @@ const yash = {
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yashyp12" target="_blank">
+  <a href="https://linkedin.com/in/yashyp12" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yashyp.engineer" target="_blank">
+  <a href="https://yashyp.engineer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:patilyashyp12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/yashyp12" target="_blank">
+  <a href="https://github.com/yashyp12" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
