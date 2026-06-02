@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Yash Patil! 👋</h1>
   
-  <h3> Cloud Engineer • Software Engineer</h3>
+  <h3> Cloud Infrastructure Engineer • Software Engineer</h3>
 
   <p>
     <a href="https://yashypengineer.netlify.app/">
