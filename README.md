@@ -56,16 +56,7 @@ I have experience moving projects from **concept to deployment**, including a cl
 
 </div>
 
-### 📍 What I'm Doing
 
-| Status | Details |
-|--------|---------|
-| 🔭 **Working On** | Advanced Java & Modular Architecture, Cloud Infrastructure |
-| 🌱 **Learning** | Cloud Fundamentals, Kubernetes, AWS/Azure & SDLC Best Practices |
-| 💬 **Expertise** | Java, Electron.js, System Design, Cloud DevOps, Freelancing |
-| 🎯 **Goals** | Becoming a Cloud-Native Full-Stack DevOps Engineer |
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -115,60 +106,6 @@ I have experience moving projects from **concept to deployment**, including a cl
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔹 Furnace Management System
-[![Repository](https://img.shields.io/badge/View%20Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/yashyp12)
-![Tech Stack](https://img.shields.io/badge/Tech-Electron.js%20%7C%20Python%20%7C%20MS%20SQL-blue?style=flat-square)
-
-**A client-commissioned desktop application for industrial automation.**
-- **Problem:** Client relied on manual paper logging for furnace data, leading to errors and slow reporting
-- **Solution:** Built a cross-platform desktop app to automate data entry and generate Excel reports
-- **Impact:** ⚡ Reduced manual workload | 📊 Improved data reliability for supervisors | 🎯 Production-ready
-
----
-
-### 🔹 Scrap Management Platform
-[![Repository](https://img.shields.io/badge/View%20Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/yashyp12)
-![Tech Stack](https://img.shields.io/badge/Tech-HTML5%20%7C%20Bootstrap%20%7C%20Firebase-green?style=flat-square)
-
-**A responsive web interface for inventory and vendor management.**
-- 🎨 Clean, intuitive UI for local vendors to manage pickup requests
-- 🔐 Implemented Firebase Authentication for secure user access
-- ⚡ Real-time updates to track customer requests efficiently
-
----
-
-### 🔹 Personal Portfolio
-[![Live Portfolio](https://img.shields.io/badge/Visit-yashyp.engineer-6366F1?style=flat-square&logo=googlechrome)](https://yashyp.engineer)
-![Tech Stack](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-yellow?style=flat-square)
-
-**A performance-optimized digital space showcasing my development journey.**
-- 🚀 Optimized for speed and responsive design
-- 📱 Mobile-first approach
-- 🎯 SEO-friendly structure
-
-</div>
-
----
-
- 
-
----
-
-## 📊 LeetCode Progress & Coding Statistics
-
-<div align="center">
-
-<img src="https://leetcode-stats-six.vercel.app/api?username=yashyp12&theme=dark" height="200" alt="LeetCode Stats"/>
-<img src="https://leetcard.jacoblin.cool/yashyp12?theme=dark&font=Fira%20Code&ext=contest" height="200" alt="LeetCode Card"/>
-
-</div>
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -185,7 +122,7 @@ I have experience moving projects from **concept to deployment**, including a cl
 
 ---
 
-## 🎓 Always Learning
+## 🎓 Let's connect
 
 <div align="center">
 
