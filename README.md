@@ -130,23 +130,6 @@ I have experience moving projects from **concept to deployment**, including a cl
 
 ---
 
-### Connect with me:
-<a href="https://linkedin.com/in/yashyp12">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/yashyp12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://yashypengineer.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:patilyashyp12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/>
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <p>
@@ -156,4 +139,4 @@ I have experience moving projects from **concept to deployment**, including a cl
   </sub>
 </p>
 
-</div>”
+</div>
