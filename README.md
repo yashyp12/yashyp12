@@ -20,7 +20,7 @@
   <br/>
   
   <h1>👋 Hi, I'm <strong>Yash Patil</strong></h1>
-  <h3>🚀 Cloud Infrastructure Engineer | Software Developer | DevOps Enthusiast</h3>
+  <h3>🚀 Cloud Engineer | Software Developer | DevOps </h3>
   
   <p>
     <em>Building scalable solutions from concept to production | Expertise in Cloud, DevOps & Full-Stack Development</em>
